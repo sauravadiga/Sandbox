@@ -1,3 +1,3 @@
 Adding a new file
 Adding contents from repository
-Contents from RUSSIAN branch
+Contents of master
