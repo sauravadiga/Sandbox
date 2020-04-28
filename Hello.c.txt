@@ -1,3 +1,4 @@
 Adding a new file
 Adding contents from repository
 Contents from RUSSIAN branch
+Contents to Russian from local
